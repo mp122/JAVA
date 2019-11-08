@@ -1,5 +1,12 @@
 {
     "configurations": [
+        
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - duplicate_remove_array",
+            "request": "launch",
+            "mainClass": "duplicate_remove_array"
+        },
         {
             "type": "java",
             "name": "CodeLens (Launch) - prime",
