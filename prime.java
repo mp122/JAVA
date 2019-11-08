@@ -3,7 +3,7 @@ import java.util.Scanner;
 class prime{
     public static void main(String args[]) {
         int flag=0;
-        System.out.println("Enter Number is to check Prime or Not : ");
+        System.out.println("Enter Number is to check Prime or Not :");
         int n = new Scanner(System.in).nextInt();
         for (int i= 2 ; i<n; i++){
             if (n%i == 0){
